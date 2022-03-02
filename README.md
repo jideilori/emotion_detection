@@ -14,6 +14,7 @@ At the end it saves the data as a time chart which showsthe emotions detected th
 other possible use cases of emotion detection include
 locating interesting areas(funny or shocking) in a video that many people are watching such as in a cinema.
 
+other results can be found [here](https://drive.google.com/drive/folders/1U7H__zWtVjljDRMbpT8n3Z7oL2tJ3bpZ?usp=sharing)
 
 ## Results
 
