@@ -24,9 +24,9 @@ other results can be found [here](https://drive.google.com/drive/folders/1U7H__z
 
 | Architecture  |Test Accuracy| Validation accuracy  |  Epochs  | Model              |
 | --------------| ----------- |--------------------- | ---------| -------------------|
-| Vgg16         | 80%         |82%                   | 20       |**[vgg_16.tflite](https://drivelink)**
+| Vgg16         | 80%         |82%                   | 20       |**[vgg_16.tflite](https://drive.google.com/file/d/1XBm9TxpTwj-XbSB7yddRbaq7rMg0MhMO/view?usp=sharing)**
 | EfficientNet0 |             |                      |          |**[EFF](https://drivelink)**
-| MobileNetV2   |74%          |76%                   |    50    |**[MobileNetV2.tflite - Emotion](https://drive.google.com/file/d/18V3LikH5-aVWo8ToV5_lpTHHBDTys6YE/view?usp=sharing)**
+| MobileNetV2   |74%          |76%                   |    50    |**[MobileNetV2.tflite](https://drive.google.com/file/d/18V3LikH5-aVWo8ToV5_lpTHHBDTys6YE/view?usp=sharing)**
 
 
 
