@@ -31,5 +31,5 @@ other results can be found [here](https://drive.google.com/drive/folders/1U7H__z
 
 
 
-## Conclusion and Recommendations
+## Conclusion
 Human expression of emotions is not normally long lived. someone may smile or be shocked for just a few seconds but capturing this emotions can really help. However, getting a more robust dataset inorder to improve the model will be quite difficult. Hence, further study will involve combining several open source datasets such as [EMOTIC](http://sunai.uoc.edu/emotic/index.html) and [AffectNet](https://paperswithcode.com/dataset/affectnet) in order to improve the model.
