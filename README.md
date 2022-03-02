@@ -7,12 +7,16 @@ Reults are as shown below.
 
 ![](https://github.com/jideilori/za_emotion_detection/blob/main/docs/example.gif)
 
+
+[Video source](https://youtu.be/Zy1h49_L8ME)
+
 At the end it saves the data as a time chart which showsthe emotions detected throughout the video to help management easily locate points of interest such as when the customer was annoyed or happy.
 
-![](https://github.com/jideilori/za_emotion_detection/blob/main/docs/emo_vs_time_happy.jpg)
+<img src="https://github.com/jideilori/za_emotion_detection/blob/main/docs/emo_vs_time_happy.jpg" width="580">
 
-other possible use cases of emotion detection include
-locating interesting areas(funny or shocking) in a video that many people are watching such as in a cinema.
+
+Other possible use cases of emotion detection include
+ - locating interesting areas(funny or shocking) in a video that many people are watching such as in a cinema.
 
 other results can be found [here](https://drive.google.com/drive/folders/1U7H__zWtVjljDRMbpT8n3Z7oL2tJ3bpZ?usp=sharing)
 
