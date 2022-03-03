@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to identify human emotions using cameras. This work done during deep learning internship at [ZummitAfrica](https://www.linkedin.com/company/zummit-africa/?originalSubdomain=ng). We made use of the [Ferplus](https://github.com/microsoft/FERPlus) dataset. Transfer learning with various neural network architectures were used for classification. They include, Vgg16,EfficientNet0 and MobileNetV2.
+This project aims to identify human emotions using cameras. This work was done during deep learning internship at [ZummitAfrica](https://www.linkedin.com/company/zummit-africa/?originalSubdomain=ng). We made use of the [Ferplus](https://github.com/microsoft/FERPlus) dataset. Transfer learning with various neural network architectures were used for classification. They include, Vgg16 and MobileNetV2.
 Reults are as shown below.
 
 ![](https://github.com/jideilori/za_emotion_detection/blob/main/docs/example.gif)
@@ -25,7 +25,6 @@ other results can be found [here](https://drive.google.com/drive/folders/1U7H__z
 | Architecture  |Test Accuracy| Validation accuracy  |  Epochs  | Model              |
 | --------------| ----------- |--------------------- | ---------| -------------------|
 | Vgg16         | 80%         |82%                   | 20       |**[vgg_16.tflite](https://drive.google.com/file/d/1XBm9TxpTwj-XbSB7yddRbaq7rMg0MhMO/view?usp=sharing)**
-| EfficientNet0 |             |                      |          |**[EFF](https://drivelink)**
 | MobileNetV2   |74%          |76%                   |    50    |**[MobileNetV2.tflite](https://drive.google.com/file/d/18V3LikH5-aVWo8ToV5_lpTHHBDTys6YE/view?usp=sharing)**
 
 
