@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to identify human emotions using cameras. This work was done during deep learning internship at [ZummitAfrica](https://www.linkedin.com/company/zummit-africa/?originalSubdomain=ng). We made use of the [Ferplus](https://github.com/microsoft/FERPlus) dataset. Transfer learning with various neural network architectures were used for classification. They include, Vgg16 and MobileNetV2.
+This project aims to identify human emotions using cameras. This work was done during deep learning internship at [ZummitAfrica](https://www.linkedin.com/company/zummit-africa/?originalSubdomain=ng). We made use of the [Ferplus](https://github.com/microsoft/FERPlus) dataset. Transfer learning with various neural network architectures were used for classification. They include, Vgg16,EfficientNetB0,ResNet50 and MobileNetV2.
 Results are as shown below.
 
 ![](https://github.com/jideilori/za_emotion_detection/blob/main/docs/example.gif)
@@ -24,9 +24,11 @@ other results can be found [here](https://drive.google.com/drive/folders/1U7H__z
 
 | Architecture  |Test Accuracy| Validation accuracy  |  Epochs  | Model              |
 | --------------| ----------- |--------------------- | ---------| -------------------|
-| Vgg16         | 80%         |82%                   | 20       |**[Vgg16.tflite](https://drive.google.com/file/d/1XBm9TxpTwj-XbSB7yddRbaq7rMg0MhMO/view?usp=sharing)**
-| EfficientNetB0| 80%         |82%                   | 50       |**[EfficientNetB0.tflite](https://drive.google.com/drive/folders/1Zo0AnqGkD-rZEubcZfceIg7RpKYJv5fG?usp=sharing)**
-| MobileNetV2   |74%          |76%                   |    50    |**[MobileNetV2.tflite](https://drive.google.com/file/d/18V3LikH5-aVWo8ToV5_lpTHHBDTys6YE/view?usp=sharing)**
+| Vgg16         | 80%         |82%                   | 20       |**[Emotion-Vgg16.tflite](https://drive.google.com/file/d/1XBm9TxpTwj-XbSB7yddRbaq7rMg0MhMO/view?usp=sharing)**
+| EfficientNetB0| 80%         |82%                   | 50       |**[Emotion-EfficientNetB0.tflite](https://drive.google.com/drive/folders/1Zo0AnqGkD-rZEubcZfceIg7RpKYJv5fG?usp=sharing)**
+| ResNet50      | 76%         |77%                   | 20       |**[Emotion-Resnet.tflite](https://drive.google.com/drive/folders/1Zo0AnqGkD-rZEubcZfceIg7RpKYJv5fG?usp=sharing)**
+
+| MobileNetV2   |74%          |76%                   |    50    |**[Emotion-MobileNetV2.tflite](https://drive.google.com/file/d/18V3LikH5-aVWo8ToV5_lpTHHBDTys6YE/view?usp=sharing)**
 
 
 
