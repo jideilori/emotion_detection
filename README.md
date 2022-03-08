@@ -25,7 +25,7 @@ other results can be found [here](https://drive.google.com/drive/folders/1U7H__z
 | Architecture  |Test Accuracy| Validation accuracy  |  Epochs  | Model              |
 | --------------| ----------- |--------------------- | ---------| -------------------|
 | Vgg16         | 80%         |82%                   | 20       |**[Emotion-Vgg16.tflite](https://drive.google.com/file/d/1XBm9TxpTwj-XbSB7yddRbaq7rMg0MhMO/view?usp=sharing)**
-| EfficientNetB0| xx%         |xx%                   | 50       |**[Emotion-EfficientNetB0.tflite](https://drive.google.com/drive/folders/1Zo0AnqGkD-rZEubcZfceIg7RpKYJv5fG?usp=sharing)**
+| EfficientNetB0| xx%         |76%                   | 50       |**[Emotion-EfficientNetB0.tflite](https://drive.google.com/drive/folders/1Zo0AnqGkD-rZEubcZfceIg7RpKYJv5fG?usp=sharing)**
 | ResNet50      | 76%         |77%                   | 20       |**[Emotion-Resnet50.tflite](https://drive.google.com/file/d/1RNz1sEA-9wSeExkCIiGi2MCAZaspJtvy/view?usp=sharing)**
 | MobileNetV2   |74%          |76%                   |    50    |**[Emotion-MobileNetV2.tflite](https://drive.google.com/file/d/18V3LikH5-aVWo8ToV5_lpTHHBDTys6YE/view?usp=sharing)**
 
